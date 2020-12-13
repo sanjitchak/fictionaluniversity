@@ -1,3 +1,1 @@
-It's about a udemy course I am doing - https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/
-
-where I build a custom wordpress theme.
+It's about a udemy course I did - https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/ , where I built a custom wordpress theme.
